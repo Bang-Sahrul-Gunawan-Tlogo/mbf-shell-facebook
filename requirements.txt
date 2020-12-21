@@ -1,0 +1,11 @@
+#Custom payload Pip
+#ngapa lu lihat lihat kepo ya anjay kepo n
+# minat chat gw aja 083866922788
+
+tqdm
+requests
+mechanize
+bs4
+termcolor
+
+#kelar Cok 
